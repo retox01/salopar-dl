@@ -1,0 +1,9 @@
+{
+  "version": "2.1.0",
+  "notes": "first version",
+  "zip": "salopar-dl-update.zip",
+  "sha256": "7d305a50ad9311e86fe88d8c49818a089b41687e8625da0ada0c6c1df0a311d2",
+  "signature": "MnO4GDZ7K/fcviiKWCvZMpb4kwVsHsiUu3SVdxqN/C0EFYg9bs6leldvWgDwDy2nsVhQVTHxDQqIUcILpiGVCg==",
+  "auto": false,
+  "obligatoire": false
+}

@@ -1,0 +1,9 @@
+{
+  "version": "2.1.2",
+  "notes": "ngae",
+  "zip": "salopar-dl-update.zip",
+  "sha256": "89d6720cc71bfee4ac798e4dad7d65cbc545a20c3cca4085673a3ab1358a875a",
+  "signature": "ga3kkfyMrOdr6MG+hKrjMw6O2ba+Z3Jg8lr0EyWCst4jV4Fk0XFRYNc+DDhCp5tCfmcl7Zza4HTmqlPs8TtuDg==",
+  "auto": true,
+  "obligatoire": false
+}
